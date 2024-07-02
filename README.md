@@ -23,23 +23,23 @@ Performs feature selection by forcing some coefficients to zero.
 Combines both Ridge and Lasso regularization techniques.
 Offers a balance between Ridge and Lasso, providing both feature selection and regularization.
 
-*Decision Tree Regression:
+*Decision Tree:
 Non-linear regression algorithm.
 Can capture complex relationships between features and the target variable.
 
-*Random Forest Regression:
+*Random Forest Number:
 Ensemble learning method based on decision trees.
 More robust than a single decision tree and less prone to overfitting.
 
-*Gradient Boosting Regression:
+*Gradient Boosting Method:
 Ensemble learning method that builds trees sequentially.
 Each new tree corrects errors made by the previous one.
 
-*Support Vector Regression (SVR):
+*Support Vector Regression(SVR):
 Regression extension of Support Vector Machine (SVM).
 Can capture non-linear relationships by using different kernels.
 
-*K-Nearest Neighbors Regression (KNN):
+*K-Nearest Neighbors (KNN):
 Non-parametric method that predicts the target value based on the average of its nearest neighbors.
 
 *Neural Network Regression:
